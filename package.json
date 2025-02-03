@@ -1,0 +1,10 @@
+{
+  "name": "rabbitholes",
+  "version": "0.1.0",
+  "description": "Open Source Rabbitholes Ai ",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
