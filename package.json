@@ -1,6 +1,6 @@
 {
   "name": "rabbitholes",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Open Source Rabbitholes Ai ",
   "main": "src/index.ts",
   "scripts": {
